@@ -13,6 +13,7 @@ https://making.pusher.com/latency-working-set-ghc-gc-pick-two/
 # ghc garbage collector fundamentals
 - optimises for X over Y
 - wherecan folks learn more?
+- http://www.scs.stanford.edu/16wi-cs240h/slides/rts-lecture-annot.pdf
 
 # exercises
 tba
