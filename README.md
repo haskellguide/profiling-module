@@ -19,7 +19,8 @@ https://making.pusher.com/latency-working-set-ghc-gc-pick-two/ and followup at h
 https://simonmar.github.io/slides/Haskell%20in%20the%20datacentre.pdf
 tba
 
-# additional reading
+# additional materials
+- https://www.youtube.com/watch?v=vmFdJPs3DvU
 - https://www.microsoft.com/en-us/research/publication/parallel-performance-tuning-for-haskell/
 - https://www.microsoft.com/en-us/research/publication/runtime-support-for-multicore-haskell
 - https://www.microsoft.com/en-us/research/publication/a-tutorial-on-parallel-and-concurrent-programming-in-haskell
