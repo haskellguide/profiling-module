@@ -17,6 +17,7 @@ https://making.pusher.com/latency-working-set-ghc-gc-pick-two/ and followup at h
 
 # exercises
 https://simonmar.github.io/slides/Haskell%20in%20the%20datacentre.pdf
+https://www.youtube.com/watch?v=vmFdJPs3DvU
 tba
 
 # additional materials
