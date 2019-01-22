@@ -5,7 +5,7 @@ See examples from https://github.com/simonmar/parconc-examples PCPH
 
 Tooling wise dig into https://wiki.haskell.org/ThreadScope
 
-https://making.pusher.com/latency-working-set-ghc-gc-pick-two/
+https://making.pusher.com/latency-working-set-ghc-gc-pick-two/ and followup at https://stackoverflow.com/questions/36772017/reducing-garbage-collection-pause-time-in-a-haskell-program?noredirect=1#comment61127896_36772017
 
 # table of contents
 
