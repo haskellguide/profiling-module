@@ -16,6 +16,7 @@ https://making.pusher.com/latency-working-set-ghc-gc-pick-two/ and followup at h
 - http://www.scs.stanford.edu/16wi-cs240h/slides/rts-lecture-annot.pdf
 
 # exercises
+https://simonmar.github.io/slides/Haskell%20in%20the%20datacentre.pdf
 tba
 
 # additional reading
