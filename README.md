@@ -5,6 +5,9 @@ See examples from https://github.com/simonmar/parconc-examples PCPH
 
 Tooling wise dig into https://wiki.haskell.org/ThreadScope
 
+# pusher
+TL;DR is looks like the wrong technology was chosen for the problem space:
+
 https://making.pusher.com/latency-working-set-ghc-gc-pick-two/ and followup at https://stackoverflow.com/questions/36772017/reducing-garbage-collection-pause-time-in-a-haskell-program?noredirect=1#comment61127896_36772017
 
 # table of contents
