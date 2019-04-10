@@ -17,6 +17,8 @@ https://making.pusher.com/latency-working-set-ghc-gc-pick-two/ and followup at h
 # table of contents
 
 
+# checklist
+- https://github.com/haskell-perf/checklist
 
 # ghc garbage collector fundamentals
 - optimises for X over Y
@@ -29,6 +31,7 @@ https://www.youtube.com/watch?v=vmFdJPs3DvU
 tba
 
 # additional materials
+
 - https://www.youtube.com/watch?v=vmFdJPs3DvU
 - https://www.microsoft.com/en-us/research/publication/parallel-performance-tuning-for-haskell/
 - https://www.microsoft.com/en-us/research/publication/runtime-support-for-multicore-haskell
