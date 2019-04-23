@@ -37,3 +37,6 @@ tba
 - https://www.microsoft.com/en-us/research/publication/runtime-support-for-multicore-haskell
 - https://www.microsoft.com/en-us/research/publication/a-tutorial-on-parallel-and-concurrent-programming-in-haskell
 - https://simonmar.github.io/pages/pcph.html
+
+
+- http://www.well-typed.com/blog/2014/02/ghc-events-analyze/
