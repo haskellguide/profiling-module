@@ -10,7 +10,8 @@ Content is available at http://dev.stephendiehl.com/hask/#threadscope
 
 # spaceleaks
 
-https://ro-che.info/articles/2017-01-10-nested-loop-space-leak
+- https://ro-che.info/articles/2017-01-10-nested-loop-space-leak
+- http://blog.ezyang.com/2011/05/anatomy-of-a-thunk-leak/
 
 # pusher
 TL;DR is looks like the wrong technology was chosen for the problem space:
