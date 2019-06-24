@@ -8,6 +8,9 @@ Tooling wise dig into https://wiki.haskell.org/ThreadScope
 
 Content is available at http://dev.stephendiehl.com/hask/#threadscope
 
+# spaceleaks
+
+https://ro-che.info/articles/2017-01-10-nested-loop-space-leak
 
 # pusher
 TL;DR is looks like the wrong technology was chosen for the problem space:
